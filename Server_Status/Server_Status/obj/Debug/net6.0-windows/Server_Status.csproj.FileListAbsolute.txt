@@ -1,0 +1,17 @@
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\bin\Debug\net6.0-windows\Server_Status.exe
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\bin\Debug\net6.0-windows\Server_Status.deps.json
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\bin\Debug\net6.0-windows\Server_Status.runtimeconfig.json
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\bin\Debug\net6.0-windows\Server_Status.dll
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\bin\Debug\net6.0-windows\Server_Status.pdb
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\Server_Status.csproj.AssemblyReference.cache
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\Server_Status.Form1.resources
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\Server_Status.csproj.GenerateResource.cache
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\Server_Status.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\Server_Status.AssemblyInfoInputs.cache
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\Server_Status.AssemblyInfo.cs
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\Server_Status.csproj.CoreCompileInputs.cache
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\Server_Status.dll
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\refint\Server_Status.dll
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\Server_Status.pdb
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\Server_Status.genruntimeconfig.cache
+C:\Users\hfhaa\OneDrive\Documenten\Github Desktop\Server_Status\Server_Status\Server_Status\obj\Debug\net6.0-windows\ref\Server_Status.dll
